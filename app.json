@@ -1,0 +1,35 @@
+{
+  "id": "b6efbf73-26f1-4ff0-97ac-e56c2053d241",
+  "name": "MektrinReport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{"id": "e179eef5-2a72-4679-a2ac-21fc11febacc",
+                    "publisher": "ITS",
+                    "name": "AMFITS",
+                    "version": "1.0.0.0"}],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
